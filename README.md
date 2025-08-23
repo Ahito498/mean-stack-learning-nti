@@ -1,31 +1,44 @@
-# NTI Course Tasks
+# MEAN Stack Learning - NTI Tasks
 
-This repository contains all my tasks and assignments from the NTI course.
+This repository contains my learning journey through the MEAN stack (MongoDB, Express.js, Angular, Node.js) as part of my studies at NTI.
 
-## Structure
+## 📚 Learning Path
 
-- `tasks/` - Individual task folders
-- `notes/` - Course notes and materials
-- `resources/` - Additional resources and references
+- **JavaScript Fundamentals** - Core JavaScript concepts
+- **Node.js & Express.js** - Backend development
+- **MongoDB** - Database management
+- **Angular** - Frontend framework
 
-## Getting Started
+## 🗂️ Project Structure
 
-1. Clone this repository
-2. Navigate to the specific task folder
-3. Follow the task instructions
+```
+NTI-tasks/
+├── tasks/
+│   ├── task-01/          # Mixed technology tasks
+│   ├── task-02/          # Mixed technology tasks
+│   ├── task-03/          # Mixed technology tasks
+│   ├── task-04/          # Mixed technology tasks
+│   └── task-05/          # Mixed technology tasks
+├── README.md
+└── .gitignore
+```
 
-## Tasks
+## 📝 Task Progress
 
-- [ ] Task 1: [Description]
-- [ ] Task 2: [Description]
-- [ ] Task 3: [Description]
+- [ ] Task 01: [Add task description]
+- [ ] Task 02: [Add task description]
+- [ ] Task 03: [Add task description]
+- [ ] Task 04: [Add task description]
+- [ ] Task 05: [Add task description]
 
-## Course Information
+## 🛠️ Technologies Used
 
-- **Course**: NTI
-- **Student**: [Your Name]
-- **Start Date**: [Date]
+- **JavaScript** - Programming language
+- **Node.js** - Runtime environment
+- **Express.js** - Web framework
+- **MongoDB** - NoSQL database
+- **Angular** - Frontend framework
 
-## License
+---
 
-This repository is for educational purposes only. 
+*Happy coding! 🎉*
