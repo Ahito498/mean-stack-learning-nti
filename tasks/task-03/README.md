@@ -14,6 +14,8 @@ Creating an age calculator using JavaScript with user input, conditional stateme
 - `task3-terminal.js` - Node.js version for terminal execution
 
 ## 📸 Screenshots/Output
+<img width="666" height="343" alt="Screenshot 2025-08-23 at 10 47 27 AM" src="https://github.com/user-attachments/assets/65aa82bc-8588-4cae-8fdb-6fc835d753fe" />
+
 
 ### Terminal Output (from `task3-terminal.js`):
 ```
