@@ -1,0 +1,30 @@
+# Student Portal Angular Task
+
+An Angular application for managing student information, courses, and details.
+
+## Features
+- Student listing with grid view
+- Detailed student information
+- Course enrollment tracking
+- Lifecycle hooks demonstration
+- Routing between different views
+
+## Screenshots
+
+### Student List
+![Student List View](./screenshots/student-list.png)
+
+### Student Details
+![Student Details View](./screenshots/student-details.png)
+
+### Student Courses
+![Student Courses View](./screenshots/student-courses.png)
+
+### Lifecycle Hooks
+![Lifecycle Hooks Demo](./screenshots/student-details-lifecycle.png)
+
+## Technical Details
+- Angular 16+
+- Standalone Components
+- Router Integration
+- Lifecycle Hooks Implementation
