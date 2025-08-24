@@ -1,0 +1,29 @@
+{
+  "name": "crud-landing-page",
+  "version": "0.0.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve --port 4201",
+    "build": "ng build",
+    "watch": "ng build --watch --configuration development",
+    "test": "ng test"
+  },
+  "ng": {
+    "serve": {
+      "host": "0.0.0.0",
+      "port": 4201,
+      "disableHostCheck": true
+    }
+  },
+  "vendor": "x.xx MB",
+  "polyfills": "x.xx kB",
+  "styles": "x.xx kB",
+  "main": "x.xx kB",
+  "runtime": "x.xx kB",
+  "compiled": "√ Compiled successfully.",
+  "serverListening": "** Angular Live Development Server is listening on 0.0.0.0:4201 **",
+  "url": "http://localhost:4201",
+  "dependencies": {
+    "@angular/router": "^20.2.1"
+  }
+}
