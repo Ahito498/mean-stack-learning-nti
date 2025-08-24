@@ -18,7 +18,8 @@ NTI-tasks/
 │   ├── task-02/          # Mixed technology tasks
 │   ├── task-03/          # Mixed technology tasks
 │   ├── task-04/          # Mixed technology tasks
-│   └── task-05/          # Mixed technology tasks
+│   ├── task-05/          # Mixed technology tasks
+│   └── task-06/          # Mixed technology tasks
 ├── README.md
 └── .gitignore
 ```
@@ -30,6 +31,7 @@ NTI-tasks/
 - [x] Task 03: JavaScript Age Calculator
 - [x] Task 04: JavaScript Employee Evaluation Program
 - [x] Task 05: JavaScript Arrays and Functions
+- [x] Task 06: JavaScript Timers and Intervals
 
 ## 🛠️ Technologies Used
 
