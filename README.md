@@ -29,7 +29,7 @@ NTI-tasks/
 - [x] Task 02: JavaScript Login System
 - [x] Task 03: JavaScript Age Calculator
 - [x] Task 04: JavaScript Employee Evaluation Program
-- [ ] Task 05: [Add task description]
+- [x] Task 05: JavaScript Arrays and Functions
 
 ## 🛠️ Technologies Used
 
