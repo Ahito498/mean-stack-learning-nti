@@ -1,0 +1,15 @@
+{
+  "name": "rashwanpack",
+  "version": "1.0.0",
+  "description": "it is just a test to how to upload npm package",
+  "keywords": [
+    "rashwan"
+  ],
+  "license": "ISC",
+  "author": "hassan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "hellooooo"
+  }
+}
