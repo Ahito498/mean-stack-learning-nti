@@ -23,12 +23,12 @@ NTI-tasks/
 └── .gitignore
 ```
 
-## �� Task Progress
+## 📝 Task Progress
 
 - [x] Task 01: JavaScript Variables and Data Types
 - [x] Task 02: JavaScript Login System
 - [x] Task 03: JavaScript Age Calculator
-- [ ] Task 04: [Add task description]
+- [x] Task 04: JavaScript Employee Evaluation Program
 - [ ] Task 05: [Add task description]
 
 ## 🛠️ Technologies Used
